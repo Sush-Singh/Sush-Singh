@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
-  <img alt="Sushant Kumar - Senior Software Engineer" src="./banner.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+  <img alt="Sushant Kumar - Senior Software Engineer" src="./banner.svg?v=3" width="100%">
 </picture>
 
 <br/>
@@ -17,22 +17,22 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="./lanyard.svg?v=2" width="330" alt="Sushant Kumar ID badge on a swinging lanyard">
+      <img src="./lanyard.svg?v=3" width="330" alt="Sushant Kumar ID badge on a swinging lanyard">
     </td>
     <td align="center" valign="top">
-      <img src="./stats.svg?v=2" width="520" alt="GitHub stats"><br>
-      <img src="./langs.svg?v=2" width="520" alt="Top languages">
+      <img src="./stats.svg?v=3" width="520" alt="GitHub stats"><br>
+      <img src="./langs.svg?v=3" width="520" alt="Top languages">
     </td>
   </tr>
 </table>
 
-<img src="./trophies.svg?v=2" width="100%" alt="GitHub trophies">
+<img src="./trophies.svg?v=3" width="100%" alt="GitHub trophies">
 
 <br/>
 
-<img src="./section-projects.svg?v=2" width="100%" alt="Projects">
+<img src="./section-projects.svg?v=3" width="100%" alt="Projects">
 
-<img src="./projects.svg?v=2" width="100%" alt="Projects: Food-App, ExpenseTracker, UserAuthentication, to_do_list, guess_number_game, faceswap-api, sushant">
+<img src="./projects.svg?v=3" width="100%" alt="Projects: Food-App, ExpenseTracker, UserAuthentication, to_do_list, guess_number_game, faceswap-api, sushant">
 
 <sub>
 <a href="https://github.com/Sush-Singh/Food-App">Food-App</a> ·
@@ -46,17 +46,17 @@
 
 <br/><br/>
 
-<img src="./section-activity.svg?v=2" width="100%" alt="Contribution activity">
+<img src="./section-activity.svg?v=3" width="100%" alt="Contribution activity">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=040d1c&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution%20Graph">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=ffffff&color=0369a1&line=0ea5e9&point=0c4a6e&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=040d1c&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution%20Graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=14405f&color=e0f4ff&line=7dd3fc&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=f5fbff&color=0c4a6e&line=0ea5e9&point=0284c7&area=true&area_color=7dd3fc&hide_border=true&custom_title=Contribution%20Graph">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=14405f&color=e0f4ff&line=7dd3fc&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph" width="100%">
 </picture>
 
 <br/>
 
-<img src="./section-snake.svg?v=2" width="100%" alt="Snake versus contributions">
+<img src="./section-snake.svg?v=3" width="100%" alt="Snake versus contributions">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sush-Singh/Sush-Singh/output/github-snake-dark.svg">

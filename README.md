@@ -10,6 +10,8 @@
 
 <a href="https://github.com/Sush-Singh"><img src="https://img.shields.io/badge/GitHub-Sush--Singh-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:sushantkumarsingh098@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://apishub.dev"><img src="https://img.shields.io/badge/Website-apishub.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/sushant-kumar-bb067b128/"><img src="https://img.shields.io/badge/LinkedIn-Sushant%20Kumar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://komarev.com/ghpvc/?username=Sush-Singh&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views">
 
 <br/><br/>
@@ -27,6 +29,35 @@
 </table>
 
 <img src="./trophies.svg?v=3" width="100%" alt="GitHub trophies">
+
+<br/>
+
+<img src="./section-featured.svg?v=1" width="100%" alt="Featured projects">
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Sush-Singh/apishub"><img src="./card-apihub.svg?v=1" width="490" alt="APIHub"></a><br>
+      <sub><a href="https://apishub.dev">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/apishub">Showcase</a></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Sush-Singh/billcraft-app"><img src="./card-billcraft.svg?v=1" width="490" alt="BillCraft"></a><br>
+      <sub><a href="https://billcarft-frontend.vercel.app">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/billcraft-app">Showcase</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Sush-Singh/mediflow-hms"><img src="./card-mediflow-hms.svg?v=1" width="490" alt="MediFlow HMS"></a><br>
+      <sub><a href="https://hospital-management-fe-psi.vercel.app">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/mediflow-hms">Showcase</a></sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Sush-Singh/faceswap-ai"><img src="./card-faceswap-ai.svg?v=1" width="490" alt="FaceSwap AI"></a><br>
+      <sub><a href="https://faceswap-app-sush-singhs-projects.vercel.app">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/faceswap-ai">Showcase</a></sub>
+    </td>
+  </tr>
+</table>
+
+<sub>The source code of these projects is private; each card links to a showcase page with animated screens and the stack.</sub>
 
 <br/>
 

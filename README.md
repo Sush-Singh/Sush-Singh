@@ -37,21 +37,21 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Sush-Singh/apishub"><img src="./card-apihub.svg?v=1" width="490" alt="APIHub"></a><br>
+      <a href="https://github.com/Sush-Singh/apishub"><img src="./card-apihub.svg?v=2" width="490" alt="APIHub"></a><br>
       <sub><a href="https://apishub.dev">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/apishub">Showcase</a></sub>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Sush-Singh/billcraft-app"><img src="./card-billcraft.svg?v=1" width="490" alt="BillCraft"></a><br>
+      <a href="https://github.com/Sush-Singh/billcraft-app"><img src="./card-billcraft.svg?v=2" width="490" alt="BillCraft"></a><br>
       <sub><a href="https://billcarft-frontend.vercel.app">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/billcraft-app">Showcase</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Sush-Singh/mediflow-hms"><img src="./card-mediflow-hms.svg?v=1" width="490" alt="MediFlow HMS"></a><br>
+      <a href="https://github.com/Sush-Singh/mediflow-hms"><img src="./card-mediflow-hms.svg?v=2" width="490" alt="MediFlow HMS"></a><br>
       <sub><a href="https://hospital-management-fe-psi.vercel.app">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/mediflow-hms">Showcase</a></sub>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Sush-Singh/faceswap-ai"><img src="./card-faceswap-ai.svg?v=1" width="490" alt="FaceSwap AI"></a><br>
+      <a href="https://github.com/Sush-Singh/faceswap-ai"><img src="./card-faceswap-ai.svg?v=2" width="490" alt="FaceSwap AI"></a><br>
       <sub><a href="https://faceswap-app-sush-singhs-projects.vercel.app">Live demo ↗</a> · <a href="https://github.com/Sush-Singh/faceswap-ai">Showcase</a></sub>
     </td>
   </tr>
@@ -63,27 +63,28 @@
 
 <img src="./section-projects.svg?v=3" width="100%" alt="Projects">
 
-<img src="./projects.svg?v=3" width="100%" alt="Projects: Food-App, ExpenseTracker, UserAuthentication, to_do_list, guess_number_game, faceswap-api, sushant">
+<p align="center">
+<a href="https://github.com/Sush-Singh/Food-App"><img src="./pc-food-app.svg?v=1" width="200" alt="Food-App"></a>
+<a href="https://github.com/Sush-Singh/ExpenseTracker"><img src="./pc-expensetracker.svg?v=1" width="200" alt="ExpenseTracker"></a>
+<a href="https://github.com/Sush-Singh/UserAuthentication"><img src="./pc-userauthentication.svg?v=1" width="200" alt="UserAuthentication"></a>
+<a href="https://github.com/Sush-Singh/to_do_list"><img src="./pc-to-do-list.svg?v=1" width="200" alt="to_do_list"></a>
+<a href="https://github.com/Sush-Singh/guess_number_game"><img src="./pc-guess-number-game.svg?v=1" width="200" alt="guess_number_game"></a>
+<a href="https://github.com/Sush-Singh/faceswap-api"><img src="./pc-faceswap-api.svg?v=1" width="200" alt="faceswap-api"></a>
+<a href="https://github.com/Sush-Singh/sushant"><img src="./pc-sushant.svg?v=1" width="200" alt="sushant"></a>
+<a href="https://github.com/Sush-Singh?tab=repositories"><img src="./pc-more.svg?v=1" width="200" alt="More repositories"></a>
+</p>
 
-<sub>
-<a href="https://github.com/Sush-Singh/Food-App">Food-App</a> ·
-<a href="https://github.com/Sush-Singh/ExpenseTracker">ExpenseTracker</a> ·
-<a href="https://github.com/Sush-Singh/UserAuthentication">UserAuthentication</a> ·
-<a href="https://github.com/Sush-Singh/to_do_list">to_do_list</a> ·
-<a href="https://github.com/Sush-Singh/guess_number_game">guess_number_game</a> ·
-<a href="https://github.com/Sush-Singh/faceswap-api">faceswap-api</a> ·
-<a href="https://github.com/Sush-Singh/sushant">sushant</a>
-</sub>
+<br/>
+
+<img src="./section-stack.svg?v=1" width="100%" alt="Tech stack">
+
+<img src="./marquee.svg?v=1" width="100%" alt="Technologies I work with: React, React Native, Next.js, Node.js, Express, NestJS, Hono, TypeScript, JavaScript, Python, MongoDB, PostgreSQL, Prisma, Drizzle, Firebase, Supabase, Tailwind CSS, MUI, Docker, AWS S3, Vercel">
 
 <br/><br/>
 
 <img src="./section-activity.svg?v=3" width="100%" alt="Contribution activity">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=14405f&color=e0f4ff&line=7dd3fc&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=f5fbff&color=0c4a6e&line=0ea5e9&point=0284c7&area=true&area_color=7dd3fc&hide_border=true&custom_title=Contribution%20Graph">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sush-Singh&bg_color=14405f&color=e0f4ff&line=7dd3fc&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Graph" width="100%">
-</picture>
+<img src="./activity.svg?v=1" width="100%" alt="Contribution activity over the last 12 months: 270 contributions">
 
 <br/>
 

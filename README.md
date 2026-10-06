@@ -12,7 +12,7 @@
 <a href="mailto:sushantkumarsingh098@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://apishub.dev"><img src="https://img.shields.io/badge/Website-apishub.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/sushant-kumar-bb067b128/"><img src="https://img.shields.io/badge/LinkedIn-Sushant%20Kumar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://komarev.com/ghpvc/?username=Sush-Singh&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views">
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSush-Singh&label=PROFILE%20VIEWS&icon=eye&color=%230ea5e9&style=for-the-badge" alt="Profile views">
 
 <br/><br/>
 
